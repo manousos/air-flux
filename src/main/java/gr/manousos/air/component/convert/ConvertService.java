@@ -11,7 +11,10 @@ package gr.manousos.air.component.convert;
 public interface ConvertService<T, R> {
 
   /**
+   * Convert the given object T to R object.
    *
+   * @param t the input object.
+   * @return the converted object.
    */
   R convertTo(T t);
 }
