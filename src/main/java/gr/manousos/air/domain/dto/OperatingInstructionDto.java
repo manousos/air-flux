@@ -6,31 +6,23 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * The flight plan dto.
+ * The operation plan dto.
  */
 @Getter
 @Setter
 @Builder
-public class FlightPlanDto {
+public class OperatingInstructionDto {
 
   /**
-   * The origin IATA airport code.
+   * The origin airport code.
    */
   private String origin;
   /**
-   * The destination IATA airport code.
+   * The destination airport code.
    */
   private String destination;
   /**
-   * The arrival time.
-   */
-  private Instant arrival;
-  /**
-   * The departure time.
+   * The departure date time of flight.
    */
   private Instant departure;
-  /**
-   * The aircraft model.
-   */
-  private String equipment;
 }
