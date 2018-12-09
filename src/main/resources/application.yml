@@ -4,11 +4,3 @@ spring:
       host: localhost
       port: 32768
       database: air-flux
-
-logging:
-  level:
-    org:
-      springframework:
-        data:
-          mongodb: DEBUG
-

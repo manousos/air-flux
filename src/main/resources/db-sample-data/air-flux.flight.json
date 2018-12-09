@@ -1,0 +1,70 @@
+{
+  "_id": {
+    "$oid": "5c0bf1c8adeb966b1d4756a8"
+  },
+  "departureTime": {
+    "$date": "2018-12-08T08:00:00.000+0000"
+  },
+  "originAirportCode": "TXL",
+  "destinationAirportCode": "MUC",
+  "flightDuration": {
+    "$numberLong": "60"
+  },
+  "_class": "gr.manousos.air.domain.Flight"
+}
+{
+  "_id": {
+    "$oid": "5c0bf284adeb964dbc95d121"
+  },
+  "departureTime": {
+    "$date": "2018-12-08T13:00:00.000+0000"
+  },
+  "originAirportCode": "TXL",
+  "destinationAirportCode": "MUC",
+  "flightDuration": {
+    "$numberLong": "60"
+  },
+  "_class": "gr.manousos.air.domain.Flight"
+}
+{
+  "_id": {
+    "$oid": "5c0bf296adeb964dbc95d122"
+  },
+  "departureTime": {
+    "$date": "2018-12-08T14:00:00.000+0000"
+  },
+  "originAirportCode": "TXL",
+  "destinationAirportCode": "MUC",
+  "flightDuration": {
+    "$numberLong": "60"
+  },
+  "_class": "gr.manousos.air.domain.Flight"
+}
+{
+  "_id": {
+    "$oid": "5c0bf2a2adeb964dbc95d123"
+  },
+  "departureTime": {
+    "$date": "2018-12-08T16:00:00.000+0000"
+  },
+  "originAirportCode": "TXL",
+  "destinationAirportCode": "MUC",
+  "flightDuration": {
+    "$numberLong": "60"
+  },
+  "_class": "gr.manousos.air.domain.Flight"
+}
+{
+  "_id": {
+    "$oid": "5c0bf2bcadeb964dbc95d124"
+  },
+  "departureTime": {
+    "$date": "2018-12-08T19:00:00.000+0000"
+  },
+  "originAirportCode": "TXL",
+  "destinationAirportCode": "HAM",
+  "flightDuration": {
+    "$numberLong": "40"
+  },
+  "_class": "gr.manousos.air.domain.Flight"
+}

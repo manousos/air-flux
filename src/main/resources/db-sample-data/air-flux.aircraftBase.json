@@ -1,0 +1,36 @@
+{
+  "_id": {
+    "$oid": "5c0beecaadeb964dbc95d10d"
+  },
+  "aircraftModel": "Boeing 737",
+  "city": "Berlin",
+  "registration": "FL-0001",
+  "_class": "gr.manousos.air.domain.AircraftBase"
+}
+{
+  "_id": {
+    "$oid": "5c0beee8adeb964dbc95d10e"
+  },
+  "aircraftModel": "Airbus A321",
+  "city": "Munich",
+  "registration": "FL-0002",
+  "_class": "gr.manousos.air.domain.AircraftBase"
+}
+{
+  "_id": {
+    "$oid": "5c0beeffadeb964dbc95d112"
+  },
+  "aircraftModel": "Boeing 747-400",
+  "city": "London",
+  "registration": "FL-0003",
+  "_class": "gr.manousos.air.domain.AircraftBase"
+}
+{
+  "_id": {
+    "$oid": "5c0bef15adeb964dbc95d113"
+  },
+  "aircraftModel": "Airbus A320",
+  "city": "Hamburg",
+  "registration": "FL-0004",
+  "_class": "gr.manousos.air.domain.AircraftBase"
+}
